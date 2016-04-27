@@ -1,0 +1,18 @@
+{
+  "name": "mojsanimateapp",
+  "version": "1.0.0",
+  "description": "animation using mo js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harrison McGuire",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "jquery": "^2.2.3"
+  }
+}

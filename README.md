@@ -1,1 +1,1 @@
-mojs animation app
+Basic node, express, gulp, bootstrap, jquery setup
